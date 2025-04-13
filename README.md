@@ -51,7 +51,7 @@ Just like in Isshinryu Karate, where every movement is practical and powerful, I
 
 - [LinkedIn](https://www.linkedin.com/in/jeffrey-szulc/)
 - [GitHub Projects](https://github.com/JeffreySzulc)
-- Email: `szulcffreyj@gmail.com`
+- Email: `szulcjeffreyj@gmail.com`
 
 ---
 
